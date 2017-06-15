@@ -13,7 +13,7 @@ Simple templates for PHP.
 ## Install
 
 ```
-composer install iuliann/rapture-session
+composer require iuliann/rapture-session
 ```
 
 ## Quick start
